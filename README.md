@@ -1,4 +1,5 @@
 # rajnam
 
 
-raj ka naam h rajnam
+raj ka naam  = rajnaam.
+
